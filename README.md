@@ -10,7 +10,8 @@
  ┣ 📁 BugReports<br>
  
  ┗ 📁 Screenshots<br>
-____________________________________
+
+---
 
 # 📘 Librus QA Testing Project
 
@@ -34,7 +35,7 @@ The goal was to validate core user functionality (login, navigation, forms) and 
 
 ---
 
-## 🧩 Test Artifacts like ✅ checklist, 🧪Test cases and 🐞Bug reports you can reach out by following the link:  «_blank»[📘 QA Portfolio — Librus Project](https://docs.google.com/spreadsheets/d/1MHK4l-I0AG_vvcLqiYyDrtd_xOq0Om62mLdPyPQbSmY/edit?usp=sharing)
+## 🧩 Test Artifacts like ✅ checklist, 🧪Test cases and 🐞Bug reports you can reach out by following the link: [📘 QA Portfolio — Librus Project](https://docs.google.com/spreadsheets/d/1MHK4l-I0AG_vvcLqiYyDrtd_xOq0Om62mLdPyPQbSmY/edit?usp=sharing)
 ---
 
 ## ⚙️ Tools Used
