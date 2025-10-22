@@ -8,15 +8,13 @@
  
  ┣ 📁 TestCases<br>
  
- ┣ 📁 BugReports<br>
+ ┗ 📁 BugReports<br>
  
- ┗ 📁 Screenshots<br>
-
 ---
 
 # 📘 Librus QA Testing Project
 
-This project demonstrates my manual QA approach for testing the **Librus Parent/Family Portal**<a href="https://www.https://portal.librus.pl/rodzina" target="_blank" rel="noopener noreferrer"> librus.rodzina</a>.
+This project demonstrates my manual QA approach for testing the **Librus Parent/Family Portal**<a href="https://portal.librus.pl/rodzina" target="_blank" rel="noopener noreferrer"> librus</a>.
 
 The goal was to validate core user functionality (login, navigation, forms) and ensure a consistent UI/UX experience across browsers and devices.
 
@@ -39,7 +37,7 @@ The goal was to validate core user functionality (login, navigation, forms) and 
 ## 🧩 Test Artifacts like <br>
 ✅ Checklist,<br>
 🧪 Test cases,<br>
-🐞 Bug reports can be found by following the link: [📘 QA Portfolio — Librus Project] <a href="https://https://docs.google.com/spreadsheets/d/1MHK4l-I0AG_vvcLqiYyDrtd_xOq0Om62mLdPyPQbSmY/edit?gid=942278769#gid=942278769" target="_blank" rel="noopener noreferrer">Google Docs</a>
+🐞 Bug reports can be found by following the link: [📘 QA Portfolio — Librus Project] <a href="https://docs.google.com/spreadsheets/d/1MHK4l-I0AG_vvcLqiYyDrtd_xOq0Om62mLdPyPQbSmY/edit?gid=942278769#gid=942278769" target="_blank" rel="noopener noreferrer">Google Docs</a>
 
 ---
 
