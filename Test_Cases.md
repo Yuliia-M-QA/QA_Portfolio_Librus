@@ -54,7 +54,7 @@ User has a valid account with a registered email.
 2. Click on Zaloguj
 3. Click on 'Przypomnij hasło' under the password field
 4. Opens the page https://portal.librus.pl/rodzina/synergia/loguj 
-5. Follow the rquirement> Enter e-mail>Press 'Wuślij'
+5. Follow the requirement> Enter e-mail>Press 'Wuślij'
 6. Check your e-mail
 
 **Expected Result:**
