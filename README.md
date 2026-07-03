@@ -1,4 +1,4 @@
-📂 QA_Portfolio_Librus <br>
+📂 WEB_testing_Librus_page <br>
 
  ┣ 📄 README.md<br>
  
